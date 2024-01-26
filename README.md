@@ -12,4 +12,4 @@ totally configurable by editing the json config file and supports internationali
 default_txt.json.
 There is included in lang directory a json for english language, just rename and replace default_txt.json.
 Also included is a small command line utility called "converte_img_em_ico" that can be translated to "convert_img_to_ico", that can
-convert from various image file formats supported by Pillow to an .ico file format (this whas utilized in this project to create all icons) 
+convert from various image file formats supported by Pillow to an .ico file format (this was utilized in this project to create all icons) 
