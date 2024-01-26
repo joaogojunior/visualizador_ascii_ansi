@@ -4,6 +4,6 @@ dos textos presentes em default_txt.json. Incluido um arquivo para lingua ingles
 default_txt.json.
 
 English version:
-ASCII and ANSI file viewer built in python and Tk, very fast and usefull for those that needs to read files created in DOS or ascii art files,
-totally configurable by editing de json config file and supports internationalization by replacing of the strings of tex t in default_txt.json.
-There is included in lang directory an json for english language, just rename and replace default_txt.json.
+ASCII and ANSI file viewer built in python and Tk, very fast and usefull for those who needs to read files created in DOS or ascii art files,
+totally configurable by editing de json config file and supports internationalization by replacing of the strings of text in default_txt.json.
+There is included in lang directory a json for english language, just rename and replace default_txt.json.
