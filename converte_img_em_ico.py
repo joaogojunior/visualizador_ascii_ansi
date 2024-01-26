@@ -1,5 +1,5 @@
 from PIL import Image
-from sys import argv
+from sys import argv, exit
 from os import path
 from pyinstaller_build_date import data_hora_build
 
