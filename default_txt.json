@@ -1,0 +1,14 @@
+{
+   "debug_cod_ansi": "dentro de um codigo ansi:",
+   "debug_char": "caractere:",
+   "debug_ansi_start": "-> inicio codigo ansi:",
+   "debug_ansi_end": "-> fim do codigo ansi:",
+   "debug_premature_end": "-> fim prematuro do codigo ansi?",
+   "debug_put_char": "-> coloca caractere no buffer...",
+   "text_manual": "Manual do visualizador de arquivos ASCII/ANSI %s lan\u00e7ado em %s\npor Jo\u00e3o Guilherme de Oliveira Jr. <joaogojunior@gmail.com>\n\nInstru\u00e7\u00f5es:\nUse as setas para cima e para baixo para subir ou descer uma linha.\nUse as teclas PgUp e PgDown para avancar ou retroceder uma tela.\nA tecla de espaco tamb\u00e9m avan\u00e7a para a pr\u00f3xima tela.\nUse as teclas + e - para aumentar e diminuir a fonte do texto.\nAperte \"f\" para alternar entre tela cheia modo janela.\nPara sair do visualizador tecle Esc.\n",
+   "err_file_not_exist": "Erro: O arquivo especificado n\u00e3o existe.",
+   "err_no_file": "Erro: Nenhum arquivo selecionado.",
+   "err_file_empty": "Arquivo especificado est\u00e1 vazio.",
+   "msg_key_press": "Tecla pressionada: ",
+   "window_title": "Visualizador ASCII/ANSI v%s (%s) por Jo\u00e3o Guilherme <joaogojunior@gmail.com> - ESC p/ sair"
+}

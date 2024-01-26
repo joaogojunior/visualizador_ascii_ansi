@@ -1,0 +1,15 @@
+{
+   "debug_cod_ansi": "inside ansi code:",
+   "debug_char": "character:",
+   "debug_ansi_start": "-> start of ansi code:",
+   "debug_ansi_end": "-> end of ansi code:",
+   "debug_premature_end": "-> premature end of ansi code?",
+   "debug_put_char": "-> put character into buffer...",
+   "text_manual": "ASCII/ANSI file viewer manual %s released in %s\nby Jo\u00e3o Guilherme de Oliveira Jr. <joaogojunior@gmail.com>\n\nInstructions:\nUse the arrow up and down keys to scroll up or down one line.\nUse the keys PgUp and PgDown to scroll one entire screen forward or backwards.\nThe space key also scroll to the next screen.\nUse the keys + and - to increase or decrease font size.\nPress \"f\" to alternate between fullscreen and windowed mode.\nTo quit press Esc.\n",
+   "err_file_not_exist": "Error: the specified file does not exist.",
+   "err_no_file": "Error: No selected file.",
+   "err_file_empty": "Error: the specified file is empty.",
+   "msg_key_press": "Key pressed: ",
+   "window_title": "ASCII/ANSI Viewer v%s (%s) by Jo\u00e3o Guilherme <joaogojunior@gmail.com> - press ESC to quit"
+}
+

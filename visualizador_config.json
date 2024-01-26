@@ -1,0 +1,13 @@
+{
+   "tamanho_fonte_inicial": 22,
+   "qtd_linhas": 25,
+   "qtd_colunas": 80,
+   "cor_fonte_inicial": "light gray",
+   "cor_fundo": "black",
+   "fonte": "Courier",
+   "codepage": "cp437",
+   "exibe_scrollbar": false,
+   "tela_cheia": false,
+   "maximizado": true,
+   "debug": false
+}
